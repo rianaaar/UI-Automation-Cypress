@@ -1,0 +1,15 @@
+{
+    "email":"rianaar@ex.com",
+    "password":"123adsfadf@",
+    "buttonElement": ".chakra-button",
+    "pelanggan" : "riana",
+    "buttonProduk": "produk",
+    "produkOne": "cake segar",
+    "produkTwo": "cake candy",
+    "buttonBayar": "Bayar",
+    "namaPelanggan":"customer",
+    "nomerPelanggan": "08123456789",
+    "alamatPelanggan": "Jalan raya mawar no.1",
+    "keteranganPelanggan": "create by automation",
+    "buttonSimpan": "simpan"
+}

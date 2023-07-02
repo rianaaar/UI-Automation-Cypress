@@ -1,0 +1,14 @@
+{
+  "name": "tugaspekan5-ui_testing_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aar",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.15.0"
+  }
+}
